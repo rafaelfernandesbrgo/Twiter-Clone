@@ -1,5 +1,5 @@
 # Twiter Clone
- Apenas estudando layout com clone do Twiter em html e puro css
+Just studying layout with Twiter clone in html and pure css
 
 Look how it was:
 
